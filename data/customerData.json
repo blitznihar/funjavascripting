@@ -1,0 +1,47 @@
+[
+    {
+        "customerId": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "city": "New York",
+        "country": "USA",
+        "bankRoutingNumber": "123456789",
+        "bankAccountNumber": "9876543210"
+    },
+    {
+        "customerId": 2,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "city": "Los Angeles",
+        "country": "USA",
+        "bankRoutingNumber": "987654321",
+        "bankAccountNumber": "1234567890"
+    },
+    {
+        "customerId": 3,
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "city": "Chicago",
+        "country": "USA",
+        "bankRoutingNumber": "456789123",
+        "bankAccountNumber": "3216549870"
+    },
+    {
+        "customerId": 4,
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "city": "Houston",
+        "country": "USA",
+        "bankRoutingNumber": "321654987",
+        "bankAccountNumber": "6543217890"
+    },
+    {
+        "customerId": 5,
+        "firstName": "Sarah",
+        "lastName": "Williams",
+        "city": "Phoenix",
+        "country": "USA",
+        "bankRoutingNumber": "789123456",
+        "bankAccountNumber": "4567891230"
+    }
+]
